@@ -8,6 +8,7 @@ public class Main_all {
 System.out.print("sa");
 		//pushing
 //second pushshhs
+//error 
 
 	}
 
