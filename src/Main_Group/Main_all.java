@@ -7,6 +7,8 @@ public class Main_all {
 //SANIA
 System.out.print("sa");
 		//pushing
+//second pushshhs
+
 	}
 
 }
